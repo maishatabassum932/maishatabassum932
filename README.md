@@ -1,45 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #f4f6f8; /* Soft professional background */
-    }
-
-    .intro-text {
-      font-size: 36px;
-      font-weight: bold;
-      color: #2c3e50; /* Professional dark blue-gray */
-      animation: fadeInUp 2s ease-out forwards;
-      opacity: 0;
-      text-align: center;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-
-    @keyframes fadeInUp {
-      0% {
-        opacity: 0;
-        transform: translateY(30px);
-      }
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="intro-text">Hi People, This is Maisha Tabassum</div>
-</body>
-</html>
-
+<h2 align="center" style="font-weight: bold; color: #2c3e50;">
+  Hi People, This is <span style="color:#e67e22;">Maisha Tabassum</span>
+</h2>
  A final-year Computer Science & Engineering student at IUBAT. I'm passionate about  Machine Learning and Web Development.
 ### 📖 I'm currently learning:
 - Machine Learning 
