@@ -21,10 +21,6 @@ I'm Maisha Tabassum, a final-year Computer Science & Engineering student at IUBA
 <a href="https://www.facebook.com/share/1FvDRfzWAY/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>
 </a>
-<a href="[https://instagram.com/your-profile](https://instagram.com/your-profile](https://www.facebook.com/share/1FvDRfzWAY/))" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
-</a>
-
 
 ### 🛠 Languages and Tools:
 <div style="display: flex; gap: 10px;">
