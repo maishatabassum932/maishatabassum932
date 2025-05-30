@@ -1,6 +1,7 @@
 <h2 align="center" style="font-weight: bold; color: #2c3e50;">
   Hi People, This is <span style="color:#e67e22;">Maisha Tabassum</span>
 </h2>
+---
  A final-year Computer Science & Engineering student at IUBAT. I'm passionate about  Machine Learning and Web Development.
 ### 📖 I'm currently learning:
 - Machine Learning 
