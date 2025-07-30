@@ -3,12 +3,11 @@
 </h2>
 
 🎓 A final-year Computer Science & Engineering student at IUBAT.  
-💡 I'm passionate about Machine Learning and Web Development.
+💡 I'm passionate about Machine Learning and Data Analysis.
 
 ### 📖 I'm currently learning:
-- Machine Learning 
-- Python
 - Deep learning Models
+- Data Science
 
 ### 💻 I'm currently working on:
 - My Thesis
