@@ -3,7 +3,7 @@
 </h2>
 
 🎓 A final-year Computer Science & Engineering student at IUBAT.  
-💡 I'm passionate about Machine Learning and Data Analysis.
+💡 I'm passionate about gathering knowledge.
 
 ### 📖 I'm currently learning:
 - Deep learning Models
